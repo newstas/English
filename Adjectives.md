@@ -1,4 +1,4 @@
-# Adjectives. Degrees of Comparison (Прилагательные. Степени сравнения)
+# Прилагательные. Степени сравнения (Adjectives. Degrees of Comparison)
 
 [Степени сравнения прилагательных в английском языке](https://englex.ru/comparative-and-superlative-adjectives/)
 
