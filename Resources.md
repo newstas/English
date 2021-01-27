@@ -10,6 +10,10 @@
 
 [Грамматика - englex](https://englex.ru/cat-grammar/)
 
+[Грамматика английского языка для начинающих - englex](https://englex.ru/english-grammar-for-beginners-part-1/)
+
+[Порядок слов в английском предложении - englex](https://englex.ru/basic-word-order-in-english-sentences/)
+
 
 # YouTube
 
