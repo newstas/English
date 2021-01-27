@@ -4,13 +4,15 @@
 
 # Гайдлайны
 
+## Beginners guide
+
+[Английский с нуля с engblog](https://engblog.ru/beginners-guide)
+
 ## Грамматика
 
 [Грамматический справочник по английскому языку - engblog](https://engblog.ru/cat/grammar/guide)
 
 [Грамматика - englex](https://englex.ru/cat-grammar/)
-
-[Английский с нуля с engblog](https://engblog.ru/beginners-guide)
 
 [Грамматика английского языка для начинающих - englex](https://englex.ru/english-grammar-for-beginners-part-1/)
 
