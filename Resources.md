@@ -2,7 +2,7 @@
 
 [Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
 
-# Гайдланы
+# Гайдлаqны
 
 [Грамматический справочник по английскому языку - engblog](https://engblog.ru/cat/grammar/guide)
 
