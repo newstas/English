@@ -9,3 +9,7 @@ playlist - [2 этап. Грамматика английского языка �
 playlist - [Полиглот (16 часов). Сокращенный курс](https://www.youtube.com/playlist?list=PL66DIGaegedqVBwaauzKVk7DNqIFaXrN_)
 
 playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
+
+Словари
+
+[Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
