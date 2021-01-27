@@ -1,3 +1,8 @@
+# Словари
+
+[Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
+
+
 # YouTube
 
 [Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured)
@@ -10,6 +15,4 @@ playlist - [Полиглот (16 часов). Сокращенный курс](h
 
 playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 
-Словари
 
-[Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
