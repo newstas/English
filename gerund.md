@@ -14,9 +14,9 @@
 
 Приер:
 
-playing – игра
-reading – чтение
-walking – прогулка
+- playing – игра
+- reading – чтение
+- walking – прогулка
 
 
 ## Образование герундия
