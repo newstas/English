@@ -45,3 +45,11 @@ playlist - [Полиглот (16 часов). Сокращенный курс](h
 playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 
 
+# Словари
+
+[Merriam-Webster](https://www.merriam-webster.com/)
+
+[Dictionary.com + Thesaurus.com](https://www.thesaurus.com/)
+
+[Collins](https://www.collinsdictionary.com/)
+
