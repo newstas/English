@@ -9,9 +9,13 @@
 
 Расшифровка:
 C:\Users\admin>java -d64 -version
+
 Unrecognized option: -d64
+
 Error: Could not create the Java Virtual Machine.
+
 Error: A fatal exception has occurred. Program will exit.
 
+`unrecognized` |ʌnrekəgnaɪzd| — неопознанный 
 
 `incompatible` |ɪnkəmpætɪbəl| — несовместимый
