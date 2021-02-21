@@ -2,8 +2,8 @@
 
 `exception` |ɪksepʃən| — исключение
 
-`Occurred` |əˈkɜːd| — происходить
-- является 2-й формой и 3-й формой глагола to occur
+`Occurred` |əˈkɜːd| — [происходить](https://www.collinsdictionary.com/dictionary/english/occur)
+- является 2-й формой и 3-й формой глагола to occur |əkɜːʳ|
 
 `Program will exit` - Программа будет закрыта
 
