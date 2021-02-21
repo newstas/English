@@ -7,15 +7,13 @@
 
 `Program will exit` - Программа будет закрыта
 
-Расшифровка:
-C:\Users\admin>java -d64 -version
-
-Unrecognized option: -d64
-
-Error: Could not create the Java Virtual Machine.
-
-Error: A fatal exception has occurred. Program will exit.
+`Unrecognized option` — Нераспознанная опция
 
 `unrecognized` |ʌnrekəgnaɪzd| — неопознанный 
 
+`Incompatible JVM. Version 1.8.0_201 of the JVM is not suitable for this product. Version: 11 or greater is required` —
+Несовместимая виртуальная машина JVM. Версия 1.8.0_201 JVM не подходит для данного продукта. Версия: требуется 11 или выше.
+
 `incompatible` |ɪnkəmpætɪbəl| — несовместимый
+
+suitable
