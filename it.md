@@ -19,3 +19,5 @@
 `suitable` |suːtəbəl| — [подходящий](https://www.collinsdictionary.com/dictionary/english/suitable)
 
 `greater` |greɪtəʳ|— [больше](https://www.collinsdictionary.com/dictionary/english/greater)
+
+required |rɪˈkwaɪəd| — [требуется](https://wooordhunt.ru/word/required)
