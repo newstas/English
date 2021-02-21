@@ -13,3 +13,4 @@ Error: Could not create the Java Virtual Machine.
 Error: A fatal exception has occurred. Program will exit.
 
 
+incompatible [ɪnkəmpætɪbəl]
