@@ -20,4 +20,4 @@
 
 `greater` |greɪtəʳ|— [больше](https://www.collinsdictionary.com/dictionary/english/greater)
 
-required |rɪˈkwaɪəd| — [требуется](https://wooordhunt.ru/word/required)
+`required` |rɪˈkwaɪəd| — [требуется](https://wooordhunt.ru/word/required)
