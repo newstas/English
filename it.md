@@ -1,4 +1,4 @@
-`Error: A fatal exception has occurred. Program will exit` - Произошло фатальное исключение. Программа будет закрыта
+`Error: A fatal exception has occurred. Program will exit` - Ошибка: Произошло фатальное исключение. Программа будет закрыта
 
 `exception` |ɪksepʃən| — исключение
 
