@@ -16,6 +16,6 @@
 
 `incompatible` |ɪnkəmpætɪbəl| — несовместимый
 
-`suitable` |suːtəbəl| — подходящий
+`suitable` |suːtəbəl| — [подходящий](https://www.collinsdictionary.com/dictionary/english/suitable)
 
 `greater` |greɪtəʳ|— [больше](https://www.collinsdictionary.com/dictionary/english/greater)
