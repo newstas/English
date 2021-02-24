@@ -21,3 +21,9 @@
 `greater` |greɪtəʳ|— [больше](https://www.collinsdictionary.com/dictionary/english/greater)
 
 `required` |rɪˈkwaɪəd| — [требуется](https://wooordhunt.ru/word/required)
+
+`workspace was written with an older version. Continue and update workspace which may make it incompatible with older 
+versions?` — рабочий проект был написан с более старой версией. Продолжить
+и обновить рабочую область, которая может сделать ее несовместимой со старыми версиями?
+
+`continue` |kəntɪnjuː| — продолжать, продолжаться
