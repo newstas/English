@@ -55,6 +55,14 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 # Слушание и понимание
 
+[newsinlevels.com](https://www.newsinlevels.com/)
+Поможет приучиться слушать новости на английском.
+Здесь они размещены в упрощенном виде:
+скорость замедлена, поэтому понять проще.
+
+[rong-chang.com/nse](https://rong-chang.com/nse/)
+Здесь можно найти совсем простые тексты.
+
 [englishspeak.com](http://englishspeak.com/ru/english-lessons)
 Подойдет для новичков. Здесь можно найти самые
 распространенные слова и фразы и прослушать
@@ -63,11 +71,6 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [audioenglish.org](https://www.audioenglish.org/)
 Здесь вы сможете найти и прослушать слова,
 сгруппированные по темам. Тоже для новичков.
-
-[newsinlevels.com](https://www.newsinlevels.com/)
-Поможет приучиться слушать новости на английском.
-Здесь они размещены в упрощенном виде:
-скорость замедлена, поэтому понять проще.
 
 [ororo.tv](https://ororo.tv/ru) и [show-english.com](https://show-english.com/)
 Ресурсы, на которых собрано множество сериалов
@@ -80,4 +83,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [film-english.com](https://film-english.com/)
 На этом сайте предлагают изучать английский
 язык с помощью короткометражных фильмов.
+
+
+
 
