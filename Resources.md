@@ -54,7 +54,8 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [Collins](https://www.collinsdictionary.com/)
 
 # Слушание и понимание
-englishspeak.com
+
+[englishspeak.com](http://englishspeak.com/ru/english-lessons)
 Подойдет для новичков. Здесь можно найти самые
 распространенные слова и фразы и прослушать
 их (в том числе - в замедленном темпе).
@@ -63,7 +64,7 @@ englishspeak.com
 Здесь вы сможете найти и прослушать слова,
 сгруппированные по темам. Тоже для новичков.
 
-newsinlevels.com
+[newsinlevels.com](https://www.newsinlevels.com/)
 Поможет приучиться слушать новости на английском.
 Здесь они размещены в упрощенном виде:
 скорость замедлена, поэтому понять проще.
