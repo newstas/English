@@ -92,5 +92,9 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 для того, чтобы попрактиковаться.
 
 
-
+[Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) 
+от Coursera
+Курс, который поможет научиться правильно
+произносить сложные буквосочетания
+и корректно ставить ударения.
 
