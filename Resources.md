@@ -1,6 +1,5 @@
 # Словари
 
-[Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
 
 # Гайдлайны
 
@@ -47,11 +46,20 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 # Словари
 
+[WooordHunt](https://wooordhunt.ru/)
+
+[Reverso](https://www.reverso.net/text_translation.aspx?lang=RU)
+
+[Forvo](https://forvo.com/)
+
+[Collins](https://www.collinsdictionary.com/)
+
 [Merriam-Webster](https://www.merriam-webster.com/)
+
+[Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
 
 [Dictionary.com + Thesaurus.com](https://www.thesaurus.com/)
 
-[Collins](https://www.collinsdictionary.com/)
 
 # Слушание и понимание
 
@@ -87,6 +95,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [learnenglish.britishcouncil.org](http://learnenglish.britishcouncil.org/)
 — здесь можно найти массу бесплатных уроков от British Council
 
+
 # Разговорные навыки
 
 [italki.com](https://www.italki.com/), [coeffee.com](https://coeffee.com/), 
@@ -98,6 +107,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) 
 от Coursera — курс, который поможет научиться правильно
 произносить сложные буквосочетания и корректно ставить ударения.
+
 
 # Письменные навыки
 
