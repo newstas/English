@@ -29,11 +29,11 @@
 
 [Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured)
  
-playlist - [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh)
+playlist - [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
 
 ## OK English (Murphy)
 
-[OK English Elementary (A1, A2, B1) - Красный Murphy](https://www.youtube.com/channel/UCX4_taMVkoAs6Q-SCF1jU8w)
+[OK English Elementary (A1, A2, B1)](https://www.youtube.com/channel/UCX4_taMVkoAs6Q-SCF1jU8w) — [Красный Murphy](https://www.youtube.com/playlist?list=PL1N6sf2mpE8_FVbdTdVglEXDyDCepc4DG)
 
 [OK English ПРАКТИКА (B1, B2) - Синий Murphy](https://www.youtube.com/channel/UCW594XUfEnB5l_s35uRa-lQ)
 
