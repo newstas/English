@@ -1,13 +1,12 @@
-# Словари
-
-
 # Гайдлайны
+
 
 ## Beginners guide
 
 [Английский с нуля с engblog](https://engblog.ru/beginners-guide)
 
 [BBC Learning English](https://www.bbc.co.uk/learningenglish/)
+
 
 ## Грамматика
 
@@ -44,6 +43,7 @@ playlist - [Полиглот (16 часов). Сокращенный курс](h
 playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?list=PL66DIGaegedqtRaxfVsk6vH5dBDuL5w92)
 
 
+
 # Словари
 
 [WooordHunt](https://wooordhunt.ru/)
@@ -59,6 +59,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [Cambridge Dictionary](https://dictionary.cambridge.org/ru/)
 
 [Dictionary.com + Thesaurus.com](https://www.thesaurus.com/)
+
 
 
 # Слушание и понимание
@@ -96,6 +97,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 — здесь можно найти массу бесплатных уроков от British Council
 
 
+
 # Разговорные навыки
 
 [italki.com](https://www.italki.com/), [coeffee.com](https://coeffee.com/), 
@@ -107,6 +109,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [Tricky American English Pronunciation](https://www.coursera.org/learn/tricky-american-english-pronunciation) 
 от Coursera — курс, который поможет научиться правильно
 произносить сложные буквосочетания и корректно ставить ударения.
+
 
 
 # Письменные навыки
