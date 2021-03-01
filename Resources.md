@@ -5,7 +5,7 @@
 
 [Английский с нуля с engblog](https://engblog.ru/beginners-guide)
 
-[BBC Learning English](https://www.bbc.co.uk/learningenglish/)
+[BBC Learning English](https://www.bbc.co.uk/learningenglish/) — Уроки от всемирно известного канала BBC.
 
 [EngVid](https://www.engvid.com/) — содержит более 900 видео, озвученных одиннадцатью разными преподавателями. Каждый из них длится 5–10 минут и посвящён одной теме, связанной с актуальными новостями, жизненными ситуациями, интересными фактами. Есть также грамматические уроки.
 
