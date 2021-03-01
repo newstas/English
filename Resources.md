@@ -53,7 +53,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 [Английский язык по плейлистам](https://www.youtube.com/c/%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C/playlists) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке — бесплатные курсы английского языка подходят для тех, кто учит английский с нуля, но также и для среднего уровня и выше Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced. Основной плейлист на канале — оранжевый плейлист, рекомендация учить все уроки по порядку — Урок английского языка 1 и далее даже если уровень выше чтобы ничего не пропустить. Изучаем английский для начинающих с нуля шаг за шагом.
 
-[Инглиш Шоу](https://www.youtube.com/user/englishow/playlists) — проект с авторскими уроками по английскому языку, создатели которого подходят к своему делу с большой креативностью и юмором. 
+[Инглиш Шоу](https://www.youtube.com/user/englishow/playlists) — Mixed (A1-C2)/ Beginner/ Intermediate/ Advanced/ British English/ American English/ American & British / на русском языке, проект с авторскими уроками по английскому языку, создатели которого подходят к своему делу с большой креативностью и юмором. 
 
 
 # Словари
