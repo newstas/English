@@ -47,7 +47,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 [mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists)
 
-[Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists] — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
+[Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists) — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
 
 
 # Словари
