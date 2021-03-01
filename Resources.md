@@ -45,11 +45,13 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 ## YouTube разное
 
-[mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists)
+[mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists) — уровни mixed (A1-C2)/ American & British от Эммы.
 
 [Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists) — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
 
-[Грамматика английского языка](https://www.youtube.com/playlist?list=PLzQwntikhDAVCiFTbQtX33VC3jW6MpUmr) —  Кристина Бьорн на своем канале English Spot (Инглиш Спот),
+[Грамматика английского языка](https://www.youtube.com/playlist?list=PLzQwntikhDAVCiFTbQtX33VC3jW6MpUmr) —  Кристина Бьорн на своем канале English Spot (Инглиш Спот) Mixed (A1-C2)/ на русском языке/ American English.
+
+АНГЛИЙСКИЙ ЯЗЫК ПО ПЛЕЙЛИСТАМ — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке — бесплатные курсы английского языка подходят для тех, кто учит английский с нуля, но также и для среднего уровня и выше Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced. Основной плейлист на канале — оранжевый плейлист, рекомендация учить все уроки по порядку — Урок английского языка 1 и далее даже если уровень выше чтобы ничего не пропустить. Изучаем английский для начинающих с нуля шаг за шагом.
 
 
 # Словари
