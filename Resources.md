@@ -55,7 +55,6 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 [Инглиш Шоу](https://www.youtube.com/user/englishow/playlists) — проект с авторскими уроками по английскому языку, создатели которого подходят к своему делу с большой креативностью и юмором. 
 
-[Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке, интересный playlist: [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
 
 # Словари
 
