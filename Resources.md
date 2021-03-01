@@ -49,6 +49,8 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 [Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists) — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
 
+[Грамматика английского языка](https://www.youtube.com/playlist?list=PLzQwntikhDAVCiFTbQtX33VC3jW6MpUmr) —  Кристина Бьорн на своем канале English Spot (Инглиш Спот),
+
 
 # Словари
 
