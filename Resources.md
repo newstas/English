@@ -7,6 +7,8 @@
 
 [BBC Learning English](https://www.bbc.co.uk/learningenglish/)
 
+[EngVid](https://www.engvid.com/) — содержит более 900 видео, озвученных одиннадцатью разными преподавателями. Каждый из них длится 5–10 минут и посвящён одной теме, связанной с актуальными новостями, жизненными ситуациями, интересными фактами. Есть также грамматические уроки.
+
 
 ## Грамматика
 
@@ -20,20 +22,20 @@
 
 
 
-
 # YouTube
 
-## Ирина Колосова
+[mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists) — уровни mixed (A1-C2)/ American & British от Эммы.
 
-[Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured)
- 
-playlist - [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
+[Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists) — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
+
 
 ## OK English (Murphy)
 
 Канал: [OK English Elementary (A1, A2, B1)](https://www.youtube.com/channel/UCX4_taMVkoAs6Q-SCF1jU8w), Плейлист: [Красный Murphy](https://www.youtube.com/playlist?list=PL1N6sf2mpE8_FVbdTdVglEXDyDCepc4DG), Дополнительная плейлист: [Аудио-практика к Красному Мерфи](https://www.youtube.com/playlist?list=PL1N6sf2mpE88zQ68byfybWlx6Yv66ASlL)
 
 Канал: [OK English ПРАКТИКА (B1, B2)](https://www.youtube.com/channel/UCW594XUfEnB5l_s35uRa-lQ), Плейлист: [Синий Murphy](https://www.youtube.com/playlist?list=PL7j3OJlBURb7jc_Romw7Sw0bKRLK2X9GY), Дополнительная плейлист: [Английский INTERMEDIATE - практика](https://www.youtube.com/playlist?list=PL7j3OJlBURb5_NeQEnBbrpjz9Kls0GEwT)
+
+[Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке, интересный playlist: [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
 
 Albert Kakhnovskiy - изучение английского по знаменитому [Красному Мерфи](https://www.youtube.com/playlist?list=PLUBkKOXwm-78CnM8kxdJE3ZoIwWsCRoe5), еще интересный плейлист [Начало изучения английского языка](https://www.youtube.com/playlist?list=PLUBkKOXwm-7-lRTxU72z6ovnR0kFCBncs)
 
@@ -47,13 +49,11 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 ## YouTube разное
 
-[mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists) — уровни mixed (A1-C2)/ American & British от Эммы.
-
-[Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists) — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
-
 [Грамматика английского языка](https://www.youtube.com/playlist?list=PLzQwntikhDAVCiFTbQtX33VC3jW6MpUmr) —  Кристина Бьорн на своем канале English Spot (Инглиш Спот) Mixed (A1-C2)/ на русском языке/ American English.
 
 [Английский язык по плейлистам](https://www.youtube.com/c/%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C/playlists) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке — бесплатные курсы английского языка подходят для тех, кто учит английский с нуля, но также и для среднего уровня и выше Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced. Основной плейлист на канале — оранжевый плейлист, рекомендация учить все уроки по порядку — Урок английского языка 1 и далее даже если уровень выше чтобы ничего не пропустить. Изучаем английский для начинающих с нуля шаг за шагом.
+
+[Инглиш Шоу](https://www.youtube.com/user/englishow/playlists) — проект с авторскими уроками по английскому языку, создатели которого подходят к своему делу с большой креативностью и юмором. 
 
 
 # Словари
