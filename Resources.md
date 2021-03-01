@@ -35,8 +35,6 @@
 
 Канал: [OK English ПРАКТИКА (B1, B2)](https://www.youtube.com/channel/UCW594XUfEnB5l_s35uRa-lQ), Плейлист: [Синий Murphy](https://www.youtube.com/playlist?list=PL7j3OJlBURb7jc_Romw7Sw0bKRLK2X9GY), Дополнительная плейлист: [Английский INTERMEDIATE - практика](https://www.youtube.com/playlist?list=PL7j3OJlBURb5_NeQEnBbrpjz9Kls0GEwT)
 
-[Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке, интересный playlist: [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
-
 Albert Kakhnovskiy - изучение английского по знаменитому [Красному Мерфи](https://www.youtube.com/playlist?list=PLUBkKOXwm-78CnM8kxdJE3ZoIwWsCRoe5), еще интересный плейлист [Начало изучения английского языка](https://www.youtube.com/playlist?list=PLUBkKOXwm-7-lRTxU72z6ovnR0kFCBncs)
 
 
@@ -49,12 +47,15 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 ## YouTube разное
 
+[Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке, интересный playlist: [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
+
 [Грамматика английского языка](https://www.youtube.com/playlist?list=PLzQwntikhDAVCiFTbQtX33VC3jW6MpUmr) —  Кристина Бьорн на своем канале English Spot (Инглиш Спот) Mixed (A1-C2)/ на русском языке/ American English.
 
 [Английский язык по плейлистам](https://www.youtube.com/c/%D0%90%D0%9D%D0%93%D0%9B%D0%98%D0%99%D0%A1%D0%9A%D0%98%D0%99%D0%AF%D0%97%D0%AB%D0%9A%D0%9F%D0%9E%D0%9F%D0%9B%D0%95%D0%99%D0%9B%D0%98%D0%A1%D0%A2%D0%90%D0%9C/playlists) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке — бесплатные курсы английского языка подходят для тех, кто учит английский с нуля, но также и для среднего уровня и выше Beginner, Elementary, Pre-Intermediate, Intermediate, Upper-Intermediate, Advanced. Основной плейлист на канале — оранжевый плейлист, рекомендация учить все уроки по порядку — Урок английского языка 1 и далее даже если уровень выше чтобы ничего не пропустить. Изучаем английский для начинающих с нуля шаг за шагом.
 
 [Инглиш Шоу](https://www.youtube.com/user/englishow/playlists) — проект с авторскими уроками по английскому языку, создатели которого подходят к своему делу с большой креативностью и юмором. 
 
+[Ирина Колосова](https://www.youtube.com/user/yourenglishtrainer/featured) — Mixed (A1-C2)/ Beginner/ American & British/ на русском языке, интересный playlist: [2 этап. Грамматика английского языка С НУЛЯ](https://www.youtube.com/playlist?list=PLSFN5BEcPifIG-xYeW3yGq4CNtfnh-6kh) 
 
 # Словари
 
