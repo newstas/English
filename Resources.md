@@ -24,7 +24,7 @@
 
 # YouTube
 
-[mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists) — уровни mixed (A1-C2)/ American & British от Эммы.
+[mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists) — уровни mixed (A1-C2)/ American & British от Эммы. Интересный playlists: [Pronunciation Practice!](https://www.youtube.com/playlist?list=PLD_5T89Ssbn3GrxrT28k9xEKwizeoPCjc)
 
 [Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists) — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
 
