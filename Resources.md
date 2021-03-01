@@ -35,6 +35,8 @@ playlist - [2 этап. Грамматика английского языка �
 
 Канал: [OK English ПРАКТИКА (B1, B2)](https://www.youtube.com/channel/UCW594XUfEnB5l_s35uRa-lQ), Плейлист: [Синий Murphy](https://www.youtube.com/playlist?list=PL7j3OJlBURb7jc_Romw7Sw0bKRLK2X9GY), Дополнительная плейлист: [Английский INTERMEDIATE - практика](https://www.youtube.com/playlist?list=PL7j3OJlBURb5_NeQEnBbrpjz9Kls0GEwT)
 
+Albert Kakhnovskiy - изучение английского по знаменитому [Красному Мерфи](https://www.youtube.com/playlist?list=PLUBkKOXwm-78CnM8kxdJE3ZoIwWsCRoe5), еще интересный плейлист [Начало изучения английского языка](https://www.youtube.com/playlist?list=PLUBkKOXwm-7-lRTxU72z6ovnR0kFCBncs)
+
 
 ## Полиглот
 
