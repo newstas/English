@@ -131,3 +131,7 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 [MySpelling.net](http://myspelling.net/)
 Здесь вам будут диктовать слова, а вам нужно будет их набирать.
 
+Соцсети
+
+[Английский для ленивых](https://www.instagram.com/lazy_english/) —	Каждый день 3 слова (1 сущ., 1 глаг., 1 прил.) с рус. и англ. транскрипциями.
+
