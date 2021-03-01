@@ -47,6 +47,8 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 
 [mmmEnglish](https://www.youtube.com/c/mmmEnglish_Emma/playlists)
 
+[Oxford Online English](https://www.youtube.com/c/Oxfordonlineenglish1/playlists] — уроки посвящены самым разным темам английской грамматики, фонетики и других аспектов языка: например, произношению коротких форм, распространенным ошибкам на экзамене IELTS или произнесению сложных английских гласных.
+
 
 # Словари
 
@@ -114,6 +116,8 @@ playlist - [Полиглот (16 часов)](https://www.youtube.com/playlist?l
 от Coursera — курс, который поможет научиться правильно
 произносить сложные буквосочетания и корректно ставить ударения.
 
+
+[Talkenglish.com](https://www.talkenglish.com/курс) разговорного английского [English Speaking Basics](https://www.talkenglish.com/speaking/listbasics.aspx). Курс состоит из 90 уроков: это 900 часов аудиозаписей! Каждый урок посвящен конкретной теме или обороту речи (например, использованию фразы “I feel like”). При этом все уроки делятся на три больших раздела – раздел II сложнее, чем I и так далее.
 
 
 # Письменные навыки
