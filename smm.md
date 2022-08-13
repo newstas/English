@@ -14,7 +14,7 @@ Rate |reɪt| - скорость, [ставка](https://wooordhunt.ru/word/rate)
 
 Стоимость 1000 показов. Если вы выбрали способ оплаты «за показы», эта сумма вычитается из вашего рекламного бюджета за каждую 1000 показов объявления.
 
-cost per mille — [цена за тысячу](https://wooordhunt.ru/word/mille)
+cost per mille — [цена за тысячу](https://wooordhunt.ru/word/mille) /cловосочетание/
 
 Cost |kɔːst| - стоить, [обходиться](https://wooordhunt.ru/word/cost)
 
