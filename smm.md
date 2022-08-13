@@ -22,3 +22,5 @@ Per |pɜː(r)| - в, за, на, по, с, согласно, через, [пос
 
 Mille - тысяч (французский)
 
+Impression |ɪmˈpreʃn| - впечатление, [представление](https://wooordhunt.ru/word/impression)
+
